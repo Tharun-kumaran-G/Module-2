@@ -38,7 +38,7 @@ else:
 ![image](https://github.com/user-attachments/assets/82a31238-8341-4ae7-a6ed-3c7fdfafd4ea)
 
 ### RESULT
-```
+
 Thus, the python program to print n natural numbers using for loop has been executed and verified succesfully.
-```
+
 
