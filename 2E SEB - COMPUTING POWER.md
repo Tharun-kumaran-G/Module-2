@@ -22,7 +22,19 @@ To write a Python program to compute the power of a given number using an approp
 ### PROGRAM
 
 ```
+#Reg_no: 212223060288
+#Name: Tharun Kumaran G
+
+base = int(input("Enter the base number: "))
+exponent = int(input("Enter the exponent: "))
+result = pow(base, exponent)
+print(f"{base} raised to the power of {exponent} is: {result}")
+
+
 ```
 ### OUTPUT
 
+![image](https://github.com/user-attachments/assets/7f1173f8-e330-4168-a7f3-3c1b5b0760a2)
+
 ### RESULT
+The python program to compute the power of a given number using an appropriate built-in function has been executed and verified successfully.
