@@ -40,7 +40,7 @@ else:
 ```
 ### OUTPUT
 
-![image](https://github.com/user-attachments/assets/6a0afb97-2132-4c0c-b956-a5fc3c23986c)
+![image](https://github.com/user-attachments/assets/8774ddb8-769b-40aa-b9d3-1b4eb52aeab2)
 
 ### RESULT
 
