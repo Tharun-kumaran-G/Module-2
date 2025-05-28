@@ -28,14 +28,13 @@ n = int(input())
 if n <= 0:
     print()
 else:
-    print(f"First {n} natural numbers are:")
     for i in range(1, n + 1):
         print(i)
 
 ```
 ### OUTPUT
 
-![image](https://github.com/user-attachments/assets/82a31238-8341-4ae7-a6ed-3c7fdfafd4ea)
+![image](https://github.com/user-attachments/assets/ca3ab7b9-cc85-4eb8-92fc-7efbb6fc9db1)
 
 ### RESULT
 
