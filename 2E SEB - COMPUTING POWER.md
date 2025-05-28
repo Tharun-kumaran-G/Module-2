@@ -1,21 +1,30 @@
 # Exp.No:2e  
-## SEB - COMPUTING POWER
+## SEB - ADDITION OF ARGUMENTS
 
 ---
 
 ### AIM  
-To write a Python program to compute the power of a given number using an appropriate built-in function.
+To write a Python program which takes three arguments: a and b and c and returns the addition of them: a+b+c. Assign it to a variable named: f. using python.
 
 ---
 
 ### ALGORITHM
 
-1. Begin the program.  
-2. Input the base number (`base`) from the user.  
-3. Input the exponent number (`exp`) from the user.  
-4. Use the built-in `pow()` function to compute the base raised to the power of the exponent.  
-5. Print the result using the `print()` function, displaying the power in a formatted output.  
-6. Terminate the program.
+1.Start
+
+2.Declare three integer variables: a, b, c
+
+3.Prompt the user to enter the first number and store it in a
+
+4.Prompt the user to enter the second number and store it in b
+
+5.Prompt the user to enter the third number and store it in c
+
+6.Calculate the sum of the three numbers: s = a + b + c
+
+7.Display the result s
+
+8.End
 
 ---
 
@@ -25,16 +34,21 @@ To write a Python program to compute the power of a given number using an approp
 #Reg_no: 212223060288
 #Name: Tharun Kumaran G
 
-base = int(input("Enter the base number: "))
-exponent = int(input("Enter the exponent: "))
-result = pow(base, exponent)
-print(f"{base} raised to the power of {exponent} is: {result}")
+def f(a,b,c):
+s=a+b+c
+return s
+
+a=int(input())
+b=int(input())
+c=int(input())
+
+print(f(a,b,c))
 
 
 ```
 ### OUTPUT
 
-![image](https://github.com/user-attachments/assets/7f1173f8-e330-4168-a7f3-3c1b5b0760a2)
+![image](https://github.com/user-attachments/assets/1cfbdaf1-c291-4f4b-b9c6-c11cab5a6aee)
 
 ### RESULT
 The python program to compute the power of a given number using an appropriate built-in function has been executed and verified successfully.
