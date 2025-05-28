@@ -37,8 +37,7 @@ print(f"{num1} is {compare(num1, num2)} {num2}")
 
 ### OUTPUT
 
-![image](https://github.com/user-attachments/assets/68bfca6c-e0e8-416a-99ac-6e7bc78468d4)
-
+![image](https://github.com/user-attachments/assets/d7bf7516-068a-4067-b801-7971b4f454d6)
 
 ### RESULT
 
